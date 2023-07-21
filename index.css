@@ -1,0 +1,8 @@
+body {
+background-color:blue;
+background-image: -moz-element();
+}
+
+h2 {
+color: darkgreen;
+}
